@@ -12,5 +12,3 @@
 |**Julia Gonzalez**|Desenvolvedor|[@GitHub](https://github.com/juliagonzalezmoreira)|[@Linkedin](http://linkedin.com/in/julia-gonzalez-moreira)
 |**Pedro Ribeiro**|Desenvolvedor|[@GitHub](https://github.com/pedrohenribeiro)|[@Linkedin](https://www.linkedin.com/in/pedrohenribeiro1/)
 |**Sofia Lessa**|Desenvolvedor|[@GitHub](https://github.com/sofialessaa)|[@Linkedin](https://www.linkedin.com/in/sofiamatoslessa/)
-
-</br>>
