@@ -18,4 +18,4 @@
 | 1° SEM | [Tech School](https://github.com/juliagonzalezmoreira/Projeto-de-API-1-Semestre/tree/main) | Site informativo simples e funcional sobre a Metodologia Ágil. | FATEC |
 | 2° SEM | [Assistente Zari](https://github.com/Equipe-Meta-Code/Zari-documentation) | Desenvolver um modelo de chatbot (assistente virtual) que analise documentos e responda perguntas sobre eles. | FATEC |
 | 3° SEM | [Dashboard Pro4Tech](https://github.com/Equipe-Meta-Code/Dashboard-Pro4Tech) | Dashboard que possibilite uma analise de dados de vendas para a empresa Pro4Tech| FATEC |
-| 4° SEM | [WE COLEB - JJM Log](https://github.com/Equipe-Meta-Code/WE-COLEB-JJM-Log) | Sistema de intranet com foco em processos de trabalho, fluxos de trabalho e colaboração entre equipes para a empresa JJM Log. | FATEC |
+| 4° SEM | [WE COLEB - JJM Log](https://github.com/Equipe-Meta-Code/WE-COLEB-JJM-Log) | Sistema Web com Regra de Negócio complexa em ambiente de produção (Deploy) para a empresa JJM Log. | FATEC |
